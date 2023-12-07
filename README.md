@@ -22,7 +22,25 @@ Part 2:
 
 ## D03 - Gear Ratios
 Part 1:
+- 2D operations, visualised using `plt.imshow()`
+
+Part 2:
+- If Cha
+
+  
+- ## D04 - Scratcards
+Part 1:
 - 2D operations
+
+Part 2:
+- If Cha
+
+## D05 - If You Give A Seed A Fertilizer
+Part 1:
+- Time complexity problem - search algorithm - index extraction:
+    - I chose a hashmap approach first which performed well on the small training input but could not scale to the massive ranges encountered in the puxxle input.
+    - Learned more (again) about scalable search algorithms and chose a binary search approach -> while hashmap crashed after 15 min (after optimisation) binary search took 7.13 ms to finish.
+    - use terminal-based execution of `output_delete.py` to erase the output of the crashed Notebook; otherwise the output is so massive that the entire JupyterLab cannot be loaded and you get a "Snap" error message.
 
 Part 2:
 - If Cha
